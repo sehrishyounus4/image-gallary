@@ -1,1 +1,1 @@
-# image-gallary and periodic table
+# image-gallery and periodic table
